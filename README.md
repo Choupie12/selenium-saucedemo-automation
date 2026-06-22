@@ -5,7 +5,7 @@
 This project demonstrates UI test automation using Selenium WebDriver and Python on the SauceDemo e-commerce application.
 
 The objective is to validate key user journeys such as login, cart management, checkout process, and negative authentication scenarios through automated functional testing.
-
+ 
 ---
 
 ## Tools & Technologies
