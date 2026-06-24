@@ -1,0 +1,7 @@
+Name: selenium
+Version: 4.45.0
+Summary: Official Python bindings for Selenium WebDriver
+Home-page: https://www.selenium.dev
+Author:
+Author-email:
+License: Apache-2.0
