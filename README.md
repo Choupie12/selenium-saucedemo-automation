@@ -83,8 +83,6 @@ Selenium-SauceDemo-Project
 ├── test_cases
 │   └── SauceDemo_Test_Cases.xlsx
 │
-├── reports
-│
 ├── screenshots
 │
 ├── requirements.txt
