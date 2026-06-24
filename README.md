@@ -69,7 +69,7 @@ Website: https://www.saucedemo.com
 ## Project Structure
 
 ```text
-Selenium-SauceDemo-Project
+Selenium-SauceDemo-automation
 │
 ├── tests
 │   ├── test_login.py
